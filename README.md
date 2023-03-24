@@ -1,2 +1,21 @@
-# async_await_promise_practice_for_students
- 教學用 async await promise 範例
+前端練習：Async/Await 和 Promise
+==========================
+ 
+這份技術文件將介紹如何使用 Async/Await 和 Promise 來實現非同步操作。以下是三個範例，涵蓋了 HTML、CSS 和 ES6。
+ 
+範例1：加載 JSON 數據
+--------------
+ 
+這個範例展示了如何使用 async/await 實現非同步載入 JSON 資料。
+ 
+範例2：非同步計算
+--------
+ 
+這個範例展示了如何使用 Promise 進行非同步計算。
+ 
+  
+ 
+範例3：異步圖片加載
+----------
+ 
+這個範例展示了如何使用 async/await 進行非同步圖片載入。
